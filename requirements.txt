@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+torch
+opencv-python
+pillow
+pytesseract
+python-dotenv
+openai
+numpy
+pandas
